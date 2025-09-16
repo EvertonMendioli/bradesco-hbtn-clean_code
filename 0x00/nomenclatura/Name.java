@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class Name {
 
     public Date modifiedDate;
@@ -15,7 +17,7 @@ public class Name {
     public void saveCar(){};
 
 
-    public saveUser(){}; createAccount(){}; generateContract(){};
+    public saveUser(){}; saveAccount(){}; saveContract(){};
 
 
     public final int DAYS_IN_YEAR = 360;
