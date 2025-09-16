@@ -1,4 +1,4 @@
-public class Nome {
+public class Name {
 
     public Date modifiedDate;
     public List<Testcase> findAllTestcasesByUser(Name.User user){};
